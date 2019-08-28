@@ -4,7 +4,7 @@ This project is based Spring MVC Framework including Hibernate.
 
 -- maven repository
   for spring mvc:
-  <dependency>
+		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
 			<version>${springframework.version}</version>
@@ -40,7 +40,7 @@ This project is based Spring MVC Framework including Hibernate.
 			<version>2.1.7.RELEASE</version>
 		</dependency>
     
-    for servlet
+  for servlet
     <dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>servlet-api</artifactId>
